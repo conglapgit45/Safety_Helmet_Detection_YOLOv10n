@@ -17,3 +17,7 @@ A simple demo app that help detect safety helmet in an image or video using YOLO
         ![Image 01: Demo result with a picture](pt_demo.PNG)
     * Step 09: Predict with a video from youtube
         ![Image 02: Demo result with a youtube video](yt_demo.PNG)
+
+## Where are predictive results
+* In Google Colab, you can find predictive results at '/content/yolov10/runs/detect/predict'
+* In case predict with a youtube video, you have to download the result video file with extension ".avi" to your local device and then you can open and view the result video
