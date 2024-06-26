@@ -14,6 +14,6 @@ A simple demo app that help detect safety helmet in an image or video using YOLO
     * Step 06: Train the model
     * Step 07: Evaluate the model
     * Step 08: Predict with an image
-        ![Image 01: Demo result with a picture](Safety_Helmet_Detection_YOLOv10n/helmet-269-_jpg.rf.2b8e58c7477defa6f098ffab8bb34c33.jpg)
+        ![Image 01: Demo result with a picture](pt_demo.PNG)
     * Step 09: Predict with a video from youtube
         ![Image 02: Demo result with a youtube video](yt_demo.PNG)
